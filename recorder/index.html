@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <style type="text/css" media="screen">
+      #editor { 
+        width: 600px;
+        height: 300px;
+      }
+      #sketchFrame {
+        border-style: none;
+      }
+  </style>
+  <title>Recorder</title>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script src="../lib/ace/src-min-noconflict/ace.js" type="text/javascript" charset="utf-8"></script>
+  <script language="javascript" type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/p5.js/0.3.16/p5.js"></script>
+  <script language="javascript" type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/p5.js/0.3.16/addons/p5.dom.js"></script>
+  <script language="javascript" type="text/javascript" src="recorder.js"></script>  
+</head>
+
+<body>
+  <iframe id="sketchFrame" src="sketch.html" width="320" height="240"></iframe>
+  <div id="editor">function setup() {
+  createCanvas(320,240);
+} 
+
+function draw() {
+  background(0);
+  stroke(255);
+  strokeWeight(2);
+  var x = frameCount % width;
+  line(x, 0, x, height);
+}</div>  
+  <div id ="interface">
+    <button id="run">run</button>
+  </div>
+</body>
+</html>
+
