@@ -3,7 +3,7 @@ var editor;
 var recording = false;
 
 var events = [];
-var json;
+var eventsJSON;
 
 function toggleRecording() {
   recording = !recording;
@@ -14,7 +14,10 @@ function toggleRecording() {
   } else {
     record.html('start recording');    
     editor.setTheme("ace/theme/github");
-
+    eventsJSON = JSON.stringify(events, null, 2);
+    var output = getElement('recording');
+    output.html(eventsJSON);
+    save(events,'events.json');
   }
 
 }
@@ -27,10 +30,6 @@ function editorChange(e) {
     ev.range = e.data.range;
     ev.text = e.data.text;
     events.push(ev);
-  
-    json = JSON.stringify(events, null, 2);
-    var output = getElement('recording');
-    output.html(json);
   }
 
 
@@ -41,6 +40,7 @@ function editorSelection(e) {
 }
 
 function editorCursor(e) {
+  //console.log('cursor');
   //console.log(e);
 }
 
@@ -100,4 +100,7 @@ function runIt() {
   // Using Jquery to update the src
   // From: https://github.com/processing/p5.js-website/blob/master/js/examples.js
   $('#sketchFrame').attr('src', $('#sketchFrame').attr('src'));
+  var ev = {};
+  ev.action = 'run';
+  events.push(ev);
 }
