@@ -56,7 +56,7 @@ function setup() {
   editor.getSession().on('change', editorChange);
   editor.getSession().selection.on('changeSelection', editorSelection);
   editor.getSession().selection.on('changeCursor', editorCursor);
-
+  
   
   // Injecting JavaScript into iFrame with Jquery
   // This is from p5.js web site
@@ -67,13 +67,10 @@ function setup() {
     if (exampleCode.indexOf('new p5()') === -1) {
       exampleCode += '\nnew p5();';
     }
-    if (dims.length < 2) {
-      var re = /createCanvas\((.*),(.*)\)/g;
-      var arr = exampleCode.split(re);
-      $('#sketchFrame').height(arr[2]+'px');
-    } else {
-      $('#sketchFrame').height(dims[1]+'px');
-    }
+    var re = /createCanvas\((.*),(.*)\)/g;
+    var arr = exampleCode.split(re);
+    $('#sketchFrame').width(arr[1]+'px');
+    $('#sketchFrame').height(arr[2]+'px');
 
     var userScript = $('#sketchFrame')[0].contentWindow.document.createElement('script');
     userScript.type = 'text/javascript';
@@ -94,6 +91,20 @@ function setup() {
   // The record button
   var record = getElement('record');
   record.mousePressed(toggleRecording);
+
+  var load = getElement('load');
+  load.mousePressed(function() {
+      addExample('sine.js');
+  });
+}
+
+// From: https://github.com/processing/p5.js-website/blob/master/js/examples.js
+function addExample(file) {
+  loadStrings('sine.js',done);
+  function done(data) {
+    var code = data.join('\n');
+    editor.setValue(code);
+  }
 }
 
 function runIt() {
