@@ -5,7 +5,7 @@ var dims = [];
 function setup() {
   // Basic ACE setup
   editor = ace.edit("editor");
-  //editor.setTheme("ace/theme/monokai");
+  editor.setTheme("ace/theme/github");
   editor.getSession().setMode("ace/mode/javascript");
   
   // Injecting JavaScript into iFrame with Jquery
