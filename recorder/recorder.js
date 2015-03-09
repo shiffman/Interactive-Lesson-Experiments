@@ -1,6 +1,7 @@
 var editor;
 
 var recording = false;
+var startTime = 0;
 
 var events = [];
 var eventsJSON;
@@ -10,6 +11,7 @@ function toggleRecording() {
   var record = getElement('record');
   if (recording) {
     record.html('stop recording');
+    startTime = millis();
     editor.setTheme("ace/theme/cobalt");
   } else {
     record.html('start recording');    
@@ -17,7 +19,7 @@ function toggleRecording() {
     eventsJSON = JSON.stringify(events, null, 2);
     var output = getElement('recording');
     output.html(eventsJSON);
-    save(events,'events.json');
+    save(events,'events_fulltext.json');
   }
 
 }
@@ -25,10 +27,12 @@ function toggleRecording() {
 function editorChange(e) {
   if (recording) {
     var ev = {};
-    ev.time = millis();
+    ev.time = millis() - startTime;
     ev.action = e.data.action;
-    ev.range = e.data.range;
-    ev.text = e.data.text;
+    ev.contents = editor.getValue();
+    ev.cursor = editor.getCursorPosition();
+    //ev.range = e.data.range;
+    //ev.text = e.data.text;
     events.push(ev);
   }
 
@@ -52,7 +56,8 @@ function setup() {
   editor = ace.edit("editor");
   editor.setTheme("ace/theme/github");
   editor.getSession().setMode("ace/mode/javascript");
-  
+  editor.setBehavioursEnabled(false);
+
   editor.getSession().on('change', editorChange);
   editor.getSession().selection.on('changeSelection', editorSelection);
   editor.getSession().selection.on('changeCursor', editorCursor);
@@ -111,7 +116,12 @@ function runIt() {
   // Using Jquery to update the src
   // From: https://github.com/processing/p5.js-website/blob/master/js/examples.js
   $('#sketchFrame').attr('src', $('#sketchFrame').attr('src'));
-  var ev = {};
-  ev.action = 'run';
-  events.push(ev);
+  
+  if (recording) {
+    var ev = {};
+    ev.action = 'run';
+    ev.time = millis() - startTime;
+    ev.cursor = editor.getCursorPosition();
+    events.push(ev);
+  }
 }

@@ -1,0 +1,1107 @@
+[
+  {
+    "time": 788,
+    "action": "insertText",
+    "contents": "f",
+    "cursor": {
+      "row": 0,
+      "column": 0
+    }
+  },
+  {
+    "time": 955,
+    "action": "insertText",
+    "contents": "fu",
+    "cursor": {
+      "row": 0,
+      "column": 1
+    }
+  },
+  {
+    "time": 1146,
+    "action": "insertText",
+    "contents": "fun",
+    "cursor": {
+      "row": 0,
+      "column": 2
+    }
+  },
+  {
+    "time": 1226,
+    "action": "insertText",
+    "contents": "func",
+    "cursor": {
+      "row": 0,
+      "column": 3
+    }
+  },
+  {
+    "time": 1450,
+    "action": "insertText",
+    "contents": "funct",
+    "cursor": {
+      "row": 0,
+      "column": 4
+    }
+  },
+  {
+    "time": 1490,
+    "action": "insertText",
+    "contents": "functi",
+    "cursor": {
+      "row": 0,
+      "column": 5
+    }
+  },
+  {
+    "time": 1684,
+    "action": "insertText",
+    "contents": "functio",
+    "cursor": {
+      "row": 0,
+      "column": 6
+    }
+  },
+  {
+    "time": 1754,
+    "action": "insertText",
+    "contents": "function",
+    "cursor": {
+      "row": 0,
+      "column": 7
+    }
+  },
+  {
+    "time": 1818,
+    "action": "insertText",
+    "contents": "function ",
+    "cursor": {
+      "row": 0,
+      "column": 8
+    }
+  },
+  {
+    "time": 1889,
+    "action": "insertText",
+    "contents": "function s",
+    "cursor": {
+      "row": 0,
+      "column": 9
+    }
+  },
+  {
+    "time": 2002,
+    "action": "insertText",
+    "contents": "function se",
+    "cursor": {
+      "row": 0,
+      "column": 10
+    }
+  },
+  {
+    "time": 2098,
+    "action": "insertText",
+    "contents": "function set",
+    "cursor": {
+      "row": 0,
+      "column": 11
+    }
+  },
+  {
+    "time": 2226,
+    "action": "insertText",
+    "contents": "function set9",
+    "cursor": {
+      "row": 0,
+      "column": 12
+    }
+  },
+  {
+    "time": 2257,
+    "action": "insertText",
+    "contents": "function set90",
+    "cursor": {
+      "row": 0,
+      "column": 13
+    }
+  },
+  {
+    "time": 2634,
+    "action": "removeText",
+    "contents": "function set9",
+    "cursor": {
+      "row": 0,
+      "column": 13
+    }
+  },
+  {
+    "time": 2802,
+    "action": "removeText",
+    "contents": "function set",
+    "cursor": {
+      "row": 0,
+      "column": 12
+    }
+  },
+  {
+    "time": 3131,
+    "action": "insertText",
+    "contents": "function seti",
+    "cursor": {
+      "row": 0,
+      "column": 12
+    }
+  },
+  {
+    "time": 3673,
+    "action": "removeText",
+    "contents": "function set",
+    "cursor": {
+      "row": 0,
+      "column": 12
+    }
+  },
+  {
+    "time": 3946,
+    "action": "insertText",
+    "contents": "function setu",
+    "cursor": {
+      "row": 0,
+      "column": 12
+    }
+  },
+  {
+    "time": 4201,
+    "action": "insertText",
+    "contents": "function setup",
+    "cursor": {
+      "row": 0,
+      "column": 13
+    }
+  },
+  {
+    "time": 4529,
+    "action": "insertText",
+    "contents": "function setup(",
+    "cursor": {
+      "row": 0,
+      "column": 14
+    }
+  },
+  {
+    "time": 4585,
+    "action": "insertText",
+    "contents": "function setup()",
+    "cursor": {
+      "row": 0,
+      "column": 15
+    }
+  },
+  {
+    "time": 4729,
+    "action": "insertText",
+    "contents": "function setup() ",
+    "cursor": {
+      "row": 0,
+      "column": 16
+    }
+  },
+  {
+    "time": 4929,
+    "action": "insertText",
+    "contents": "function setup() {",
+    "cursor": {
+      "row": 0,
+      "column": 17
+    }
+  },
+  {
+    "time": 5194,
+    "action": "insertText",
+    "contents": "function setup() {\n",
+    "cursor": {
+      "row": 0,
+      "column": 18
+    }
+  },
+  {
+    "time": 5194,
+    "action": "insertText",
+    "contents": "function setup() {\n    ",
+    "cursor": {
+      "row": 1,
+      "column": 0
+    }
+  },
+  {
+    "time": 5386,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n",
+    "cursor": {
+      "row": 1,
+      "column": 4
+    }
+  },
+  {
+    "time": 5386,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n    ",
+    "cursor": {
+      "row": 2,
+      "column": 0
+    }
+  },
+  {
+    "time": 5633,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n    }",
+    "cursor": {
+      "row": 2,
+      "column": 4
+    }
+  },
+  {
+    "time": 5634,
+    "action": "removeText",
+    "contents": "function setup() {\n    \n}",
+    "cursor": {
+      "row": 2,
+      "column": 1
+    }
+  },
+  {
+    "time": 5914,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n",
+    "cursor": {
+      "row": 2,
+      "column": 1
+    }
+  },
+  {
+    "time": 6073,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\n",
+    "cursor": {
+      "row": 3,
+      "column": 0
+    }
+  },
+  {
+    "time": 6433,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nf",
+    "cursor": {
+      "row": 4,
+      "column": 0
+    }
+  },
+  {
+    "time": 6530,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfu",
+    "cursor": {
+      "row": 4,
+      "column": 1
+    }
+  },
+  {
+    "time": 6689,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfun",
+    "cursor": {
+      "row": 4,
+      "column": 2
+    }
+  },
+  {
+    "time": 6737,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunc",
+    "cursor": {
+      "row": 4,
+      "column": 3
+    }
+  },
+  {
+    "time": 6913,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunct",
+    "cursor": {
+      "row": 4,
+      "column": 4
+    }
+  },
+  {
+    "time": 7001,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfuncti",
+    "cursor": {
+      "row": 4,
+      "column": 5
+    }
+  },
+  {
+    "time": 7153,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunctio",
+    "cursor": {
+      "row": 4,
+      "column": 6
+    }
+  },
+  {
+    "time": 7217,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunction",
+    "cursor": {
+      "row": 4,
+      "column": 7
+    }
+  },
+  {
+    "time": 7250,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunction ",
+    "cursor": {
+      "row": 4,
+      "column": 8
+    }
+  },
+  {
+    "time": 7353,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunction d",
+    "cursor": {
+      "row": 4,
+      "column": 9
+    }
+  },
+  {
+    "time": 7481,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunction dr",
+    "cursor": {
+      "row": 4,
+      "column": 10
+    }
+  },
+  {
+    "time": 7585,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunction dra",
+    "cursor": {
+      "row": 4,
+      "column": 11
+    }
+  },
+  {
+    "time": 7658,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunction draw",
+    "cursor": {
+      "row": 4,
+      "column": 12
+    }
+  },
+  {
+    "time": 7905,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunction draw(",
+    "cursor": {
+      "row": 4,
+      "column": 13
+    }
+  },
+  {
+    "time": 7977,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunction draw()",
+    "cursor": {
+      "row": 4,
+      "column": 14
+    }
+  },
+  {
+    "time": 8065,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunction draw() ",
+    "cursor": {
+      "row": 4,
+      "column": 15
+    }
+  },
+  {
+    "time": 8241,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunction draw() {",
+    "cursor": {
+      "row": 4,
+      "column": 16
+    }
+  },
+  {
+    "time": 8859,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunction draw() {\n",
+    "cursor": {
+      "row": 4,
+      "column": 17
+    }
+  },
+  {
+    "time": 8859,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunction draw() {\n    ",
+    "cursor": {
+      "row": 5,
+      "column": 0
+    }
+  },
+  {
+    "time": 9033,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunction draw() {\n    \n",
+    "cursor": {
+      "row": 5,
+      "column": 4
+    }
+  },
+  {
+    "time": 9033,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunction draw() {\n    \n    ",
+    "cursor": {
+      "row": 6,
+      "column": 0
+    }
+  },
+  {
+    "time": 9378,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunction draw() {\n    \n    }",
+    "cursor": {
+      "row": 6,
+      "column": 4
+    }
+  },
+  {
+    "time": 9378,
+    "action": "removeText",
+    "contents": "function setup() {\n    \n}\n\nfunction draw() {\n    \n}",
+    "cursor": {
+      "row": 6,
+      "column": 1
+    }
+  },
+  {
+    "time": 10049,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunction draw() {\n     \n}",
+    "cursor": {
+      "row": 5,
+      "column": 1
+    }
+  },
+  {
+    "time": 10226,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunction draw() {\n  b   \n}",
+    "cursor": {
+      "row": 5,
+      "column": 2
+    }
+  },
+  {
+    "time": 10313,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunction draw() {\n  ba   \n}",
+    "cursor": {
+      "row": 5,
+      "column": 3
+    }
+  },
+  {
+    "time": 10434,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunction draw() {\n  bac   \n}",
+    "cursor": {
+      "row": 5,
+      "column": 4
+    }
+  },
+  {
+    "time": 10498,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunction draw() {\n  back   \n}",
+    "cursor": {
+      "row": 5,
+      "column": 5
+    }
+  },
+  {
+    "time": 10658,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunction draw() {\n  backg   \n}",
+    "cursor": {
+      "row": 5,
+      "column": 6
+    }
+  },
+  {
+    "time": 10802,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunction draw() {\n  backgr   \n}",
+    "cursor": {
+      "row": 5,
+      "column": 7
+    }
+  },
+  {
+    "time": 10866,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunction draw() {\n  backgro   \n}",
+    "cursor": {
+      "row": 5,
+      "column": 8
+    }
+  },
+  {
+    "time": 10922,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunction draw() {\n  backgrou   \n}",
+    "cursor": {
+      "row": 5,
+      "column": 9
+    }
+  },
+  {
+    "time": 11074,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunction draw() {\n  backgroun   \n}",
+    "cursor": {
+      "row": 5,
+      "column": 10
+    }
+  },
+  {
+    "time": 11130,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunction draw() {\n  background   \n}",
+    "cursor": {
+      "row": 5,
+      "column": 11
+    }
+  },
+  {
+    "time": 11306,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunction draw() {\n  background(   \n}",
+    "cursor": {
+      "row": 5,
+      "column": 12
+    }
+  },
+  {
+    "time": 11521,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunction draw() {\n  background(0   \n}",
+    "cursor": {
+      "row": 5,
+      "column": 13
+    }
+  },
+  {
+    "time": 11747,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunction draw() {\n  background(0)   \n}",
+    "cursor": {
+      "row": 5,
+      "column": 14
+    }
+  },
+  {
+    "time": 11946,
+    "action": "insertText",
+    "contents": "function setup() {\n    \n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 5,
+      "column": 15
+    }
+  },
+  {
+    "time": 13609,
+    "action": "removeText",
+    "contents": "function setup() {\n\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 0
+    }
+  },
+  {
+    "time": 14018,
+    "action": "insertText",
+    "contents": "function setup() {\n \n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 0
+    }
+  },
+  {
+    "time": 14194,
+    "action": "insertText",
+    "contents": "function setup() {\n  \n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 1
+    }
+  },
+  {
+    "time": 15306,
+    "action": "insertText",
+    "contents": "function setup() {\n  c\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 2
+    }
+  },
+  {
+    "time": 15498,
+    "action": "insertText",
+    "contents": "function setup() {\n  cr\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 3
+    }
+  },
+  {
+    "time": 15561,
+    "action": "insertText",
+    "contents": "function setup() {\n  cre\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 4
+    }
+  },
+  {
+    "time": 15642,
+    "action": "insertText",
+    "contents": "function setup() {\n  crea\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 5
+    }
+  },
+  {
+    "time": 15737,
+    "action": "insertText",
+    "contents": "function setup() {\n  creat\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 6
+    }
+  },
+  {
+    "time": 15826,
+    "action": "insertText",
+    "contents": "function setup() {\n  create\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 7
+    }
+  },
+  {
+    "time": 16049,
+    "action": "insertText",
+    "contents": "function setup() {\n  createC\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 8
+    }
+  },
+  {
+    "time": 16201,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCa\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 9
+    }
+  },
+  {
+    "time": 16265,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCan\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 10
+    }
+  },
+  {
+    "time": 16346,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCanv\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 11
+    }
+  },
+  {
+    "time": 16410,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCanva\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 12
+    }
+  },
+  {
+    "time": 16474,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCanvas\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 13
+    }
+  },
+  {
+    "time": 16729,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCanvas(\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 14
+    }
+  },
+  {
+    "time": 17074,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCanvas(0\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 15
+    }
+  },
+  {
+    "time": 17242,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCanvas(00\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 16
+    }
+  },
+  {
+    "time": 17513,
+    "action": "removeText",
+    "contents": "function setup() {\n  createCanvas(0\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 16
+    }
+  },
+  {
+    "time": 17665,
+    "action": "removeText",
+    "contents": "function setup() {\n  createCanvas(\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 15
+    }
+  },
+  {
+    "time": 17730,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCanvas(2\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 15
+    }
+  },
+  {
+    "time": 17841,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCanvas(20\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 16
+    }
+  },
+  {
+    "time": 18009,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCanvas(200\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 17
+    }
+  },
+  {
+    "time": 18142,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCanvas(200,\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 18
+    }
+  },
+  {
+    "time": 18489,
+    "action": "removeText",
+    "contents": "function setup() {\n  createCanvas(200\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 18
+    }
+  },
+  {
+    "time": 18649,
+    "action": "removeText",
+    "contents": "function setup() {\n  createCanvas(20\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 17
+    }
+  },
+  {
+    "time": 18809,
+    "action": "removeText",
+    "contents": "function setup() {\n  createCanvas(2\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 16
+    }
+  },
+  {
+    "time": 18913,
+    "action": "removeText",
+    "contents": "function setup() {\n  createCanvas(\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 15
+    }
+  },
+  {
+    "time": 18993,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCanvas(3\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 15
+    }
+  },
+  {
+    "time": 19162,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCanvas(30\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 16
+    }
+  },
+  {
+    "time": 19305,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCanvas(300\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 17
+    }
+  },
+  {
+    "time": 19385,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCanvas(300,\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 18
+    }
+  },
+  {
+    "time": 19514,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCanvas(300,2\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 19
+    }
+  },
+  {
+    "time": 19610,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCanvas(300,20\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 20
+    }
+  },
+  {
+    "time": 19778,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCanvas(300,200\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 21
+    }
+  },
+  {
+    "time": 19961,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCanvas(300,200)\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 22
+    }
+  },
+  {
+    "time": 20161,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCanvas(300,200);\n}\n\nfunction draw() {\n  background(0);   \n}",
+    "cursor": {
+      "row": 1,
+      "column": 23
+    }
+  },
+  {
+    "action": "run",
+    "time": 22128,
+    "cursor": {
+      "row": 1,
+      "column": 24
+    }
+  },
+  {
+    "time": 23673,
+    "action": "removeText",
+    "contents": "function setup() {\n  createCanvas(300,200);\n}\n\nfunction draw() {\n  background();   \n}",
+    "cursor": {
+      "row": 5,
+      "column": 13
+    }
+  },
+  {
+    "time": 23762,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCanvas(300,200);\n}\n\nfunction draw() {\n  background(2);   \n}",
+    "cursor": {
+      "row": 5,
+      "column": 13
+    }
+  },
+  {
+    "time": 23866,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCanvas(300,200);\n}\n\nfunction draw() {\n  background(25);   \n}",
+    "cursor": {
+      "row": 5,
+      "column": 14
+    }
+  },
+  {
+    "time": 24009,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCanvas(300,200);\n}\n\nfunction draw() {\n  background(255);   \n}",
+    "cursor": {
+      "row": 5,
+      "column": 15
+    }
+  },
+  {
+    "time": 24154,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCanvas(300,200);\n}\n\nfunction draw() {\n  background(255m);   \n}",
+    "cursor": {
+      "row": 5,
+      "column": 16
+    }
+  },
+  {
+    "time": 24359,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCanvas(300,200);\n}\n\nfunction draw() {\n  background(255mo);   \n}",
+    "cursor": {
+      "row": 5,
+      "column": 17
+    }
+  },
+  {
+    "time": 24656,
+    "action": "removeText",
+    "contents": "function setup() {\n  createCanvas(300,200);\n}\n\nfunction draw() {\n  background(255m);   \n}",
+    "cursor": {
+      "row": 5,
+      "column": 17
+    }
+  },
+  {
+    "time": 24817,
+    "action": "removeText",
+    "contents": "function setup() {\n  createCanvas(300,200);\n}\n\nfunction draw() {\n  background(255);   \n}",
+    "cursor": {
+      "row": 5,
+      "column": 16
+    }
+  },
+  {
+    "time": 25034,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCanvas(300,200);\n}\n\nfunction draw() {\n  background(255,);   \n}",
+    "cursor": {
+      "row": 5,
+      "column": 16
+    }
+  },
+  {
+    "time": 25305,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCanvas(300,200);\n}\n\nfunction draw() {\n  background(255,,);   \n}",
+    "cursor": {
+      "row": 5,
+      "column": 17
+    }
+  },
+  {
+    "time": 25585,
+    "action": "removeText",
+    "contents": "function setup() {\n  createCanvas(300,200);\n}\n\nfunction draw() {\n  background(255,);   \n}",
+    "cursor": {
+      "row": 5,
+      "column": 17
+    }
+  },
+  {
+    "time": 25874,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCanvas(300,200);\n}\n\nfunction draw() {\n  background(255,0);   \n}",
+    "cursor": {
+      "row": 5,
+      "column": 17
+    }
+  },
+  {
+    "time": 26095,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCanvas(300,200);\n}\n\nfunction draw() {\n  background(255,0,);   \n}",
+    "cursor": {
+      "row": 5,
+      "column": 18
+    }
+  },
+  {
+    "time": 26250,
+    "action": "insertText",
+    "contents": "function setup() {\n  createCanvas(300,200);\n}\n\nfunction draw() {\n  background(255,0,0);   \n}",
+    "cursor": {
+      "row": 5,
+      "column": 19
+    }
+  },
+  {
+    "action": "run",
+    "time": 27480,
+    "cursor": {
+      "row": 5,
+      "column": 20
+    }
+  }
+]
