@@ -5,7 +5,12 @@
   <style type="text/css" media="screen">
       #editor { 
         width: 800px;
-        height: 400px;
+        height: 200px;
+      }
+
+      #video {
+        float: right;
+
       }
       #sketchFrame {
         border-style: none;
@@ -25,13 +30,19 @@
 </head>
 
 <body>
-  <iframe id="sketchFrame" src="sketch.html" width="320" height="240"></iframe>
-  <div id="video"></div>
-  <div id="editor"></div>  
-  <div id ="interface">
-    <button id="run">run the code</button>
+  <div id="container" width = "800" height = "600">
+    <iframe id="sketchFrame" src="sketch.html" width="320" height="240"></iframe>
+    <div id="video">
+      <video height="400" id="testvideo" controls="true">
+        <source src="test_video.mov">
+      </video>
+    </div>
+    <div id="editor"></div>  
+    <div id ="interface">
+      <button id="run">run the code</button>
+    </div>
+    <div><pre id="recording"></pre></div>
   </div>
-  <div><pre id="recording"></pre></div>
 </body>
 </html>
 

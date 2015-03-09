@@ -1,6 +1,9 @@
 var editor;
 
 var events;
+var pop;
+var offset = 1;
+var vid;
 
 function preload() {
   events = loadJSON('events_fulltext.json');
@@ -37,44 +40,50 @@ function setup() {
   });
 
   noCanvas();
+   
+  vid = document.getElementById("testvideo");
+  // vid.onclick = function() {
+  //   console.log('testclick');
+  // }
+  // vid.oncanplay = function() { 
+  //   //var pop = Popcorn.smart("#video", 'https://vimeo.com/71597763');
+    pop = Popcorn("#testvideo");
 
-
-  // The run button
-  var run = getElement('run');
-  run.mousePressed(runIt);
-
-  var pop = Popcorn.smart("#video", 'https://vimeo.com/71597763');
-
-  function updateEditor(todo) {
-    return function() {
-      if (todo.action === 'run') {
-        runIt();
-      } else {
-        editor.setValue(todo.contents);
-        editor.clearSelection();
-        editor.gotoLine(todo.cursor.row+1, todo.cursor.column+1, false);
+    function updateEditor(todo) {
+      return function() {
+        if (todo.action === 'run') {
+          runIt();
+        } else {
+          editor.setValue(todo.contents);
+          editor.clearSelection();
+          editor.gotoLine(todo.cursor.row+1, todo.cursor.column+1, false);
+        }
+        // var action = todo.action;
+        // if (action === 'insertText') {
+        //   editor.moveCursorToPosition(todo.range.start);
+        //   editor.insert(todo.text);
+        // } else if (action === 'insertLines') {
+        //   editor.moveCursorToPosition(todo.range.start);
+        //   editor.insert('\ntesting');
+        // } else if (action === 'removeText') {
+        //   console.log(todo.range);
+        //   editor.removeSelectionMarker(todo.range);
+        // }
       }
-      // var action = todo.action;
-      // if (action === 'insertText') {
-      //   editor.moveCursorToPosition(todo.range.start);
-      //   editor.insert(todo.text);
-      // } else if (action === 'insertLines') {
-      //   editor.moveCursorToPosition(todo.range.start);
-      //   editor.insert('\ntesting');
-      // } else if (action === 'removeText') {
-      //   console.log(todo.range);
-      //   editor.removeSelectionMarker(todo.range);
-      // }
     }
-  }
-  
-  for (var i = 0; i < events.length; i++) {
-    pop.cue(events[i].time/1000, updateEditor(events[i]));
-  }
+    
+    for (var i = 0; i < events.length; i++) {
+      pop.cue((events[i].time/1000-offset), updateEditor(events[i]));
+    }
 
-  pop.play();
-
-
+    // The run button
+    var run = getElement('run');
+    run.mousePressed(runIt);
+    for (var i = 0; i < events.length; i++) {
+      pop.cue(events[i].time/1000, updateEditor(events[i]));
+    }
+    pop.play();
+  //}
 }
 
 function runIt() {
