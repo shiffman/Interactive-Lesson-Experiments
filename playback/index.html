@@ -3,22 +3,31 @@
 <html lang="en">
 <head>
   <style type="text/css" media="screen">
-      #editor { 
-        width: 800px;
-        height: 200px;
-      }
+    #container {
+      width: 900px;
+      height: 600px;
+    }
+    #sketch {
+      width: 400px;
+      height: 300px;
+    }
 
-      #video {
-        float: right;
+    #editor { 
+      width: 900px;
+      height: 300px;
+    }
 
-      }
-      #sketchFrame {
-        border-style: none;
-      }
-      body {
-        background-color: #CCCCCC;
-
-      }
+    #video {
+      float: right;
+      width: 400px;
+      height: 300px;
+    }
+    #sketchFrame {
+      border-style: none;
+    }
+    body {
+      background-color: #CCCCCC;
+    }
   </style>
   <title>Playback</title>
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
@@ -26,22 +35,23 @@
   <script src="../lib/popcorn-complete.js" type="text/javascript" charset="utf-8"></script>
   <script language="javascript" type="text/javascript" src="../lib/p5/p5.js"></script>
   <script language="javascript" type="text/javascript" src="../lib/p5/addons/p5.dom.js"></script>
-  <script language="javascript" type="text/javascript" src="playback.js"></script>  
+  <script language="javascript" type="text/javascript" src="playback.js"></script>
 </head>
 
 <body>
-  <div id="container" width = "800" height = "600">
-    <iframe id="sketchFrame" src="sketch.html" width="320" height="240"></iframe>
+  <div id="container">
     <div id="video">
-      <video height="400" id="testvideo" controls="true">
+      <video width = "400" height="300" id="testvideo" controls="true">
         <source src="test_video.mov">
       </video>
+    </div>
+    <div id="sketch">
+      <iframe id="sketchFrame" src="sketch.html"></iframe>
     </div>
     <div id="editor"></div>  
     <div id ="interface">
       <button id="run">run the code</button>
     </div>
-    <div><pre id="recording"></pre></div>
   </div>
 </body>
 </html>
