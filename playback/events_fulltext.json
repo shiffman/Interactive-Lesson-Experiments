@@ -380,7 +380,7 @@
   {
     "time": 10277,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(3   \n}",
+    "contents": "function setup() {\n  createCanvas(4   \n}",
     "cursor": {
       "row": 1,
       "column": 15
@@ -389,7 +389,7 @@
   {
     "time": 10413,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(30   \n}",
+    "contents": "function setup() {\n  createCanvas(40   \n}",
     "cursor": {
       "row": 1,
       "column": 16
@@ -398,7 +398,7 @@
   {
     "time": 10572,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300   \n}",
+    "contents": "function setup() {\n  createCanvas(400   \n}",
     "cursor": {
       "row": 1,
       "column": 17
@@ -407,7 +407,7 @@
   {
     "time": 10677,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,   \n}",
+    "contents": "function setup() {\n  createCanvas(400,   \n}",
     "cursor": {
       "row": 1,
       "column": 18
@@ -416,7 +416,7 @@
   {
     "time": 10854,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,1   \n}",
+    "contents": "function setup() {\n  createCanvas(400,3   \n}",
     "cursor": {
       "row": 1,
       "column": 19
@@ -425,7 +425,7 @@
   {
     "time": 10973,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,10   \n}",
+    "contents": "function setup() {\n  createCanvas(400,30   \n}",
     "cursor": {
       "row": 1,
       "column": 20
@@ -434,7 +434,7 @@
   {
     "time": 11268,
     "action": "removeText",
-    "contents": "function setup() {\n  createCanvas(300,1   \n}",
+    "contents": "function setup() {\n  createCanvas(400,3   \n}",
     "cursor": {
       "row": 1,
       "column": 20
@@ -443,7 +443,7 @@
   {
     "time": 11406,
     "action": "removeText",
-    "contents": "function setup() {\n  createCanvas(300,   \n}",
+    "contents": "function setup() {\n  createCanvas(400,   \n}",
     "cursor": {
       "row": 1,
       "column": 19
@@ -452,7 +452,7 @@
   {
     "time": 11453,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,2   \n}",
+    "contents": "function setup() {\n  createCanvas(400,3   \n}",
     "cursor": {
       "row": 1,
       "column": 19
@@ -461,7 +461,7 @@
   {
     "time": 11605,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,20   \n}",
+    "contents": "function setup() {\n  createCanvas(400,30   \n}",
     "cursor": {
       "row": 1,
       "column": 20
@@ -470,7 +470,7 @@
   {
     "time": 11773,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200   \n}",
+    "contents": "function setup() {\n  createCanvas(400,300   \n}",
     "cursor": {
       "row": 1,
       "column": 21
@@ -479,7 +479,7 @@
   {
     "time": 11964,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200)   \n}",
+    "contents": "function setup() {\n  createCanvas(400,300)   \n}",
     "cursor": {
       "row": 1,
       "column": 22
@@ -488,7 +488,7 @@
   {
     "time": 12181,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);   \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);   \n}",
     "cursor": {
       "row": 1,
       "column": 23
@@ -497,7 +497,7 @@
   {
     "time": 12632,
     "action": "removeText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n}",
     "cursor": {
       "row": 1,
       "column": 24
@@ -506,7 +506,7 @@
   {
     "time": 12632,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n\n}",
     "cursor": {
       "row": 1,
       "column": 24
@@ -515,7 +515,7 @@
   {
     "time": 12633,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  \n}",
     "cursor": {
       "row": 2,
       "column": 0
@@ -524,7 +524,7 @@
   {
     "time": 12798,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  \n\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  \n\n}",
     "cursor": {
       "row": 2,
       "column": 2
@@ -533,7 +533,7 @@
   {
     "time": 12798,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  \n  \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  \n  \n}",
     "cursor": {
       "row": 3,
       "column": 0
@@ -542,7 +542,7 @@
   {
     "time": 12941,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  \n  \n\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  \n  \n\n}",
     "cursor": {
       "row": 3,
       "column": 2
@@ -551,7 +551,7 @@
   {
     "time": 12941,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  \n  \n  \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  \n  \n  \n}",
     "cursor": {
       "row": 4,
       "column": 0
@@ -560,7 +560,7 @@
   {
     "time": 17046,
     "action": "removeText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  \n  \n \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  \n  \n \n}",
     "cursor": {
       "row": 4,
       "column": 1
@@ -569,7 +569,7 @@
   {
     "time": 17220,
     "action": "removeText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  \n  \n\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  \n  \n\n}",
     "cursor": {
       "row": 4,
       "column": 0
@@ -578,7 +578,7 @@
   {
     "time": 17404,
     "action": "removeText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  \n  \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  \n  \n}",
     "cursor": {
       "row": 3,
       "column": 2
@@ -587,7 +587,7 @@
   {
     "time": 17636,
     "action": "removeText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  \n \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  \n \n}",
     "cursor": {
       "row": 3,
       "column": 1
@@ -596,7 +596,7 @@
   {
     "time": 17853,
     "action": "removeText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  \n\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  \n\n}",
     "cursor": {
       "row": 3,
       "column": 0
@@ -605,7 +605,7 @@
   {
     "time": 18037,
     "action": "removeText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  \n}",
     "cursor": {
       "row": 2,
       "column": 2
@@ -614,7 +614,7 @@
   {
     "time": 18244,
     "action": "removeText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}",
     "cursor": {
       "row": 2,
       "column": 1
@@ -623,7 +623,7 @@
   {
     "time": 19086,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n",
     "cursor": {
       "row": 3,
       "column": 1
@@ -632,7 +632,7 @@
   {
     "time": 19220,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\n",
     "cursor": {
       "row": 4,
       "column": 0
@@ -641,7 +641,7 @@
   {
     "time": 19356,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nf",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nf",
     "cursor": {
       "row": 5,
       "column": 0
@@ -650,7 +650,7 @@
   {
     "time": 19516,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfu",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfu",
     "cursor": {
       "row": 5,
       "column": 1
@@ -659,7 +659,7 @@
   {
     "time": 19692,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfun",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfun",
     "cursor": {
       "row": 5,
       "column": 2
@@ -668,7 +668,7 @@
   {
     "time": 19740,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunc",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunc",
     "cursor": {
       "row": 5,
       "column": 3
@@ -677,7 +677,7 @@
   {
     "time": 19916,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunct",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunct",
     "cursor": {
       "row": 5,
       "column": 4
@@ -686,7 +686,7 @@
   {
     "time": 19996,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfuncti",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfuncti",
     "cursor": {
       "row": 5,
       "column": 5
@@ -695,7 +695,7 @@
   {
     "time": 20165,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunctio",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunctio",
     "cursor": {
       "row": 5,
       "column": 6
@@ -704,7 +704,7 @@
   {
     "time": 20206,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction",
     "cursor": {
       "row": 5,
       "column": 7
@@ -713,7 +713,7 @@
   {
     "time": 20356,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction ",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction ",
     "cursor": {
       "row": 5,
       "column": 8
@@ -722,7 +722,7 @@
   {
     "time": 20444,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction d",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction d",
     "cursor": {
       "row": 5,
       "column": 9
@@ -731,7 +731,7 @@
   {
     "time": 20621,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction dr",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction dr",
     "cursor": {
       "row": 5,
       "column": 10
@@ -740,7 +740,7 @@
   {
     "time": 20726,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction dra",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction dra",
     "cursor": {
       "row": 5,
       "column": 11
@@ -749,7 +749,7 @@
   {
     "time": 20805,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw",
     "cursor": {
       "row": 5,
       "column": 12
@@ -758,7 +758,7 @@
   {
     "time": 21052,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw(",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw(",
     "cursor": {
       "row": 5,
       "column": 13
@@ -767,7 +767,7 @@
   {
     "time": 21116,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw()",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw()",
     "cursor": {
       "row": 5,
       "column": 14
@@ -776,7 +776,7 @@
   {
     "time": 21236,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() ",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() ",
     "cursor": {
       "row": 5,
       "column": 15
@@ -785,7 +785,7 @@
   {
     "time": 21429,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {",
     "cursor": {
       "row": 5,
       "column": 16
@@ -794,7 +794,7 @@
   {
     "time": 21638,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n",
     "cursor": {
       "row": 5,
       "column": 17
@@ -803,7 +803,7 @@
   {
     "time": 21638,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n    ",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n    ",
     "cursor": {
       "row": 6,
       "column": 0
@@ -812,7 +812,7 @@
   {
     "time": 21784,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n    \n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n    \n",
     "cursor": {
       "row": 6,
       "column": 4
@@ -821,7 +821,7 @@
   {
     "time": 21784,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n    \n    ",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n    \n    ",
     "cursor": {
       "row": 7,
       "column": 0
@@ -830,7 +830,7 @@
   {
     "time": 22212,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n    \n    }",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n    \n    }",
     "cursor": {
       "row": 7,
       "column": 4
@@ -839,7 +839,7 @@
   {
     "time": 22212,
     "action": "removeText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n    \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n    \n}",
     "cursor": {
       "row": 7,
       "column": 1
@@ -848,7 +848,7 @@
   {
     "time": 22748,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n     \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n     \n}",
     "cursor": {
       "row": 6,
       "column": 1
@@ -857,16 +857,16 @@
   {
     "time": 22908,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  b   \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  b   \n}",
     "cursor": {
       "row": 6,
       "column": 2
     }
   },
   {
-    "time": 23004,
+    "time": 24004,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  ba   \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  ba   \n}",
     "cursor": {
       "row": 6,
       "column": 3
@@ -875,7 +875,7 @@
   {
     "time": 23117,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  bac   \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  bac   \n}",
     "cursor": {
       "row": 6,
       "column": 4
@@ -884,7 +884,7 @@
   {
     "time": 23181,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  back   \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  back   \n}",
     "cursor": {
       "row": 6,
       "column": 5
@@ -893,7 +893,7 @@
   {
     "time": 23332,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  backg   \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  backg   \n}",
     "cursor": {
       "row": 6,
       "column": 6
@@ -902,7 +902,7 @@
   {
     "time": 23476,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  backgr   \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  backgr   \n}",
     "cursor": {
       "row": 6,
       "column": 7
@@ -911,7 +911,7 @@
   {
     "time": 23518,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  backgro   \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  backgro   \n}",
     "cursor": {
       "row": 6,
       "column": 8
@@ -920,7 +920,7 @@
   {
     "time": 23573,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  backgrou   \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  backgrou   \n}",
     "cursor": {
       "row": 6,
       "column": 9
@@ -929,7 +929,7 @@
   {
     "time": 23788,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  backgroud   \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  backgroud   \n}",
     "cursor": {
       "row": 6,
       "column": 10
@@ -938,7 +938,7 @@
   {
     "time": 24148,
     "action": "removeText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  backgrou   \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  backgrou   \n}",
     "cursor": {
       "row": 6,
       "column": 10
@@ -947,7 +947,7 @@
   {
     "time": 24340,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  backgroun   \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  backgroun   \n}",
     "cursor": {
       "row": 6,
       "column": 10
@@ -956,7 +956,7 @@
   {
     "time": 24413,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background   \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background   \n}",
     "cursor": {
       "row": 6,
       "column": 11
@@ -965,7 +965,7 @@
   {
     "time": 24596,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(   \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(   \n}",
     "cursor": {
       "row": 6,
       "column": 12
@@ -974,7 +974,7 @@
   {
     "time": 24871,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0   \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0   \n}",
     "cursor": {
       "row": 6,
       "column": 13
@@ -983,7 +983,7 @@
   {
     "time": 24997,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,   \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,   \n}",
     "cursor": {
       "row": 6,
       "column": 14
@@ -992,7 +992,7 @@
   {
     "time": 25109,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,3   \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,3   \n}",
     "cursor": {
       "row": 6,
       "column": 15
@@ -1001,7 +1001,7 @@
   {
     "time": 25564,
     "action": "removeText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,   \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,   \n}",
     "cursor": {
       "row": 6,
       "column": 15
@@ -1010,7 +1010,7 @@
   {
     "time": 25637,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,2   \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,2   \n}",
     "cursor": {
       "row": 6,
       "column": 15
@@ -1019,7 +1019,7 @@
   {
     "time": 25725,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,25   \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,25   \n}",
     "cursor": {
       "row": 6,
       "column": 16
@@ -1028,7 +1028,7 @@
   {
     "time": 25869,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255   \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255   \n}",
     "cursor": {
       "row": 6,
       "column": 17
@@ -1037,7 +1037,7 @@
   {
     "time": 25975,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,   \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,   \n}",
     "cursor": {
       "row": 6,
       "column": 18
@@ -1046,7 +1046,7 @@
   {
     "time": 26084,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0   \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0   \n}",
     "cursor": {
       "row": 6,
       "column": 19
@@ -1055,7 +1055,7 @@
   {
     "time": 26332,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0)   \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0)   \n}",
     "cursor": {
       "row": 6,
       "column": 20
@@ -1064,7 +1064,7 @@
   {
     "time": 26556,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n}",
     "cursor": {
       "row": 6,
       "column": 21
@@ -1081,7 +1081,7 @@
   {
     "time": 30478,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n\n}",
     "cursor": {
       "row": 6,
       "column": 25
@@ -1090,7 +1090,7 @@
   {
     "time": 30480,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n}",
     "cursor": {
       "row": 7,
       "column": 0
@@ -1099,7 +1099,7 @@
   {
     "time": 30623,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n\n}",
     "cursor": {
       "row": 7,
       "column": 2
@@ -1108,7 +1108,7 @@
   {
     "time": 30625,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  \n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  \n}",
     "cursor": {
       "row": 8,
       "column": 0
@@ -1117,7 +1117,7 @@
   {
     "time": 30974,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  e\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  e\n}",
     "cursor": {
       "row": 8,
       "column": 2
@@ -1126,7 +1126,7 @@
   {
     "time": 31091,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  el\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  el\n}",
     "cursor": {
       "row": 8,
       "column": 3
@@ -1135,7 +1135,7 @@
   {
     "time": 31413,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  eli\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  eli\n}",
     "cursor": {
       "row": 8,
       "column": 4
@@ -1144,7 +1144,7 @@
   {
     "time": 31724,
     "action": "removeText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  el\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  el\n}",
     "cursor": {
       "row": 8,
       "column": 4
@@ -1153,7 +1153,7 @@
   {
     "time": 31879,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ell\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ell\n}",
     "cursor": {
       "row": 8,
       "column": 4
@@ -1162,7 +1162,7 @@
   {
     "time": 32046,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  elli\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  elli\n}",
     "cursor": {
       "row": 8,
       "column": 5
@@ -1171,7 +1171,7 @@
   {
     "time": 32220,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellip\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellip\n}",
     "cursor": {
       "row": 8,
       "column": 6
@@ -1180,7 +1180,7 @@
   {
     "time": 32284,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellips\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellips\n}",
     "cursor": {
       "row": 8,
       "column": 7
@@ -1189,7 +1189,7 @@
   {
     "time": 32361,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse\n}",
     "cursor": {
       "row": 8,
       "column": 8
@@ -1198,7 +1198,7 @@
   {
     "time": 32652,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(\n}",
     "cursor": {
       "row": 8,
       "column": 9
@@ -1207,7 +1207,7 @@
   {
     "time": 33670,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(2\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(2\n}",
     "cursor": {
       "row": 8,
       "column": 10
@@ -1216,7 +1216,7 @@
   {
     "time": 33864,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(20\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(20\n}",
     "cursor": {
       "row": 8,
       "column": 11
@@ -1225,7 +1225,7 @@
   {
     "time": 34355,
     "action": "removeText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(2\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(2\n}",
     "cursor": {
       "row": 8,
       "column": 11
@@ -1234,7 +1234,7 @@
   {
     "time": 34481,
     "action": "removeText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(\n}",
     "cursor": {
       "row": 8,
       "column": 10
@@ -1243,7 +1243,7 @@
   {
     "time": 34523,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(1\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(1\n}",
     "cursor": {
       "row": 8,
       "column": 10
@@ -1252,7 +1252,7 @@
   {
     "time": 34656,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(15\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(15\n}",
     "cursor": {
       "row": 8,
       "column": 11
@@ -1261,7 +1261,7 @@
   {
     "time": 34748,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(150\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(150\n}",
     "cursor": {
       "row": 8,
       "column": 12
@@ -1270,7 +1270,7 @@
   {
     "time": 34888,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(150,\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(150,\n}",
     "cursor": {
       "row": 8,
       "column": 13
@@ -1279,7 +1279,7 @@
   {
     "time": 35056,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(150,1\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(150,1\n}",
     "cursor": {
       "row": 8,
       "column": 14
@@ -1288,7 +1288,7 @@
   {
     "time": 35166,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(150,10\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(150,10\n}",
     "cursor": {
       "row": 8,
       "column": 15
@@ -1297,7 +1297,7 @@
   {
     "time": 35296,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(150,100\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(150,100\n}",
     "cursor": {
       "row": 8,
       "column": 16
@@ -1306,7 +1306,7 @@
   {
     "time": 35409,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(150,100,\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(150,100,\n}",
     "cursor": {
       "row": 8,
       "column": 17
@@ -1315,7 +1315,7 @@
   {
     "time": 35627,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(150,100,2\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(150,100,2\n}",
     "cursor": {
       "row": 8,
       "column": 18
@@ -1324,7 +1324,7 @@
   {
     "time": 35788,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(150,100,20\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(150,100,20\n}",
     "cursor": {
       "row": 8,
       "column": 19
@@ -1333,7 +1333,7 @@
   {
     "time": 35883,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(150,100,20,\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(150,100,20,\n}",
     "cursor": {
       "row": 8,
       "column": 20
@@ -1342,7 +1342,7 @@
   {
     "time": 36031,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(150,100,20,2\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(150,100,20,2\n}",
     "cursor": {
       "row": 8,
       "column": 21
@@ -1351,7 +1351,7 @@
   {
     "time": 36181,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(150,100,20,20\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(150,100,20,20\n}",
     "cursor": {
       "row": 8,
       "column": 22
@@ -1360,7 +1360,7 @@
   {
     "time": 36453,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(150,100,20,20)\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(150,100,20,20)\n}",
     "cursor": {
       "row": 8,
       "column": 23
@@ -1369,7 +1369,7 @@
   {
     "time": 36653,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(150,100,20,20);\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(150,100,20,20);\n}",
     "cursor": {
       "row": 8,
       "column": 24
@@ -1386,7 +1386,7 @@
   {
     "time": 39742,
     "action": "removeText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(,100,20,20);\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(,100,20,20);\n}",
     "cursor": {
       "row": 8,
       "column": 13
@@ -1395,7 +1395,7 @@
   {
     "time": 39742,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(m,100,20,20);\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(m,100,20,20);\n}",
     "cursor": {
       "row": 8,
       "column": 10
@@ -1404,7 +1404,7 @@
   {
     "time": 39861,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mo,100,20,20);\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mo,100,20,20);\n}",
     "cursor": {
       "row": 8,
       "column": 11
@@ -1413,7 +1413,7 @@
   {
     "time": 40015,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mou,100,20,20);\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mou,100,20,20);\n}",
     "cursor": {
       "row": 8,
       "column": 12
@@ -1422,7 +1422,7 @@
   {
     "time": 40079,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mous,100,20,20);\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mous,100,20,20);\n}",
     "cursor": {
       "row": 8,
       "column": 13
@@ -1431,7 +1431,7 @@
   {
     "time": 40198,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mouse,100,20,20);\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mouse,100,20,20);\n}",
     "cursor": {
       "row": 8,
       "column": 14
@@ -1440,7 +1440,7 @@
   {
     "time": 40485,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mouseX,100,20,20);\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mouseX,100,20,20);\n}",
     "cursor": {
       "row": 8,
       "column": 15
@@ -1449,7 +1449,7 @@
   {
     "time": 41777,
     "action": "removeText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mouseX,,20,20);\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mouseX,,20,20);\n}",
     "cursor": {
       "row": 8,
       "column": 20
@@ -1458,7 +1458,7 @@
   {
     "time": 41779,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mouseX,M,20,20);\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mouseX,M,20,20);\n}",
     "cursor": {
       "row": 8,
       "column": 17
@@ -1467,7 +1467,7 @@
   {
     "time": 42102,
     "action": "removeText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mouseX,,20,20);\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mouseX,,20,20);\n}",
     "cursor": {
       "row": 8,
       "column": 17
@@ -1476,7 +1476,7 @@
   {
     "time": 42272,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mouseX,m,20,20);\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mouseX,m,20,20);\n}",
     "cursor": {
       "row": 8,
       "column": 17
@@ -1485,7 +1485,7 @@
   {
     "time": 42356,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mouseX,mo,20,20);\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mouseX,mo,20,20);\n}",
     "cursor": {
       "row": 8,
       "column": 18
@@ -1494,7 +1494,7 @@
   {
     "time": 42555,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mouseX,mou,20,20);\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mouseX,mou,20,20);\n}",
     "cursor": {
       "row": 8,
       "column": 19
@@ -1503,7 +1503,7 @@
   {
     "time": 42630,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mouseX,mous,20,20);\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mouseX,mous,20,20);\n}",
     "cursor": {
       "row": 8,
       "column": 20
@@ -1512,7 +1512,7 @@
   {
     "time": 42718,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mouseX,mouse,20,20);\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mouseX,mouse,20,20);\n}",
     "cursor": {
       "row": 8,
       "column": 21
@@ -1521,7 +1521,7 @@
   {
     "time": 43137,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mouseX,mouseY,20,20);\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mouseX,mouseY,20,20);\n}",
     "cursor": {
       "row": 8,
       "column": 22
@@ -1538,7 +1538,7 @@
   {
     "time": 56198,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mouseX,mouseY,20,20);\n}",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mouseX,mouseY,20,20);\n}",
     "cursor": {
       "row": 2,
       "column": 1
@@ -1547,7 +1547,7 @@
   {
     "time": 58741,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mouseX,mouseY,20,20);\n}\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mouseX,mouseY,20,20);\n}\n",
     "cursor": {
       "row": 9,
       "column": 1
@@ -1556,7 +1556,7 @@
   {
     "time": 58878,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mouseX,mouseY,20,20);\n}\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  \n}\n\nfunction draw() {\n  background(0,255,0);   \n  \n  ellipse(mouseX,mouseY,20,20);\n}\n\n",
     "cursor": {
       "row": 10,
       "column": 0
@@ -1565,7 +1565,7 @@
   {
     "time": 60692,
     "action": "removeLines",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  \n}\n\nfunction draw() {\n  \n  ellipse(mouseX,mouseY,20,20);\n}\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  \n}\n\nfunction draw() {\n  \n  ellipse(mouseX,mouseY,20,20);\n}\n\n",
     "cursor": {
       "row": 7,
       "column": 0
@@ -1574,7 +1574,7 @@
   {
     "time": 62049,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  \n  ellipse(mouseX,mouseY,20,20);\n}\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  \n  ellipse(mouseX,mouseY,20,20);\n}\n\n",
     "cursor": {
       "row": 2,
       "column": 0
@@ -1583,7 +1583,7 @@
   {
     "time": 62050,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);   \n  \n}\n\nfunction draw() {\n  \n  ellipse(mouseX,mouseY,20,20);\n}\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);   \n  \n}\n\nfunction draw() {\n  \n  ellipse(mouseX,mouseY,20,20);\n}\n\n",
     "cursor": {
       "row": 2,
       "column": 25
@@ -1592,7 +1592,7 @@
   {
     "time": 62826,
     "action": "removeText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  \n  ellipse(mouseX,mouseY,20,20);\n}\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  \n  ellipse(mouseX,mouseY,20,20);\n}\n\n",
     "cursor": {
       "row": 2,
       "column": 25
@@ -1601,7 +1601,7 @@
   {
     "time": 64860,
     "action": "removeText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n \n  ellipse(mouseX,mouseY,20,20);\n}\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n \n  ellipse(mouseX,mouseY,20,20);\n}\n\n",
     "cursor": {
       "row": 6,
       "column": 1
@@ -1610,7 +1610,7 @@
   {
     "time": 65038,
     "action": "removeText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n\n  ellipse(mouseX,mouseY,20,20);\n}\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n\n  ellipse(mouseX,mouseY,20,20);\n}\n\n",
     "cursor": {
       "row": 6,
       "column": 0
@@ -1619,7 +1619,7 @@
   {
     "time": 65480,
     "action": "removeText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\n",
     "cursor": {
       "row": 5,
       "column": 17
@@ -1636,7 +1636,7 @@
   {
     "time": 70323,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\n\n",
     "cursor": {
       "row": 7,
       "column": 1
@@ -1645,7 +1645,7 @@
   {
     "time": 70444,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\n\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\n\n\n",
     "cursor": {
       "row": 8,
       "column": 0
@@ -1654,7 +1654,7 @@
   {
     "time": 70579,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nf\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nf\n\n",
     "cursor": {
       "row": 9,
       "column": 0
@@ -1663,7 +1663,7 @@
   {
     "time": 70692,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfu\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfu\n\n",
     "cursor": {
       "row": 9,
       "column": 1
@@ -1672,7 +1672,7 @@
   {
     "time": 70902,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfun\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfun\n\n",
     "cursor": {
       "row": 9,
       "column": 2
@@ -1681,7 +1681,7 @@
   {
     "time": 70997,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunc\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunc\n\n",
     "cursor": {
       "row": 9,
       "column": 3
@@ -1690,7 +1690,7 @@
   {
     "time": 71195,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunct\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunct\n\n",
     "cursor": {
       "row": 9,
       "column": 4
@@ -1699,7 +1699,7 @@
   {
     "time": 71213,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfuncti\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfuncti\n\n",
     "cursor": {
       "row": 9,
       "column": 5
@@ -1708,7 +1708,7 @@
   {
     "time": 71363,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunctio\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunctio\n\n",
     "cursor": {
       "row": 9,
       "column": 6
@@ -1717,7 +1717,7 @@
   {
     "time": 71428,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction\n\n",
     "cursor": {
       "row": 9,
       "column": 7
@@ -1726,7 +1726,7 @@
   {
     "time": 71485,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction \n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction \n\n",
     "cursor": {
       "row": 9,
       "column": 8
@@ -1735,7 +1735,7 @@
   {
     "time": 71607,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction m\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction m\n\n",
     "cursor": {
       "row": 9,
       "column": 9
@@ -1744,7 +1744,7 @@
   {
     "time": 72010,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mo\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mo\n\n",
     "cursor": {
       "row": 9,
       "column": 10
@@ -1753,7 +1753,7 @@
   {
     "time": 72235,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mou\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mou\n\n",
     "cursor": {
       "row": 9,
       "column": 11
@@ -1762,7 +1762,7 @@
   {
     "time": 72318,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mous\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mous\n\n",
     "cursor": {
       "row": 9,
       "column": 12
@@ -1771,7 +1771,7 @@
   {
     "time": 72411,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mouse\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mouse\n\n",
     "cursor": {
       "row": 9,
       "column": 13
@@ -1780,7 +1780,7 @@
   {
     "time": 72653,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mouseP\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mouseP\n\n",
     "cursor": {
       "row": 9,
       "column": 14
@@ -1789,7 +1789,7 @@
   {
     "time": 72743,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePr\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePr\n\n",
     "cursor": {
       "row": 9,
       "column": 15
@@ -1798,7 +1798,7 @@
   {
     "time": 72797,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePre\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePre\n\n",
     "cursor": {
       "row": 9,
       "column": 16
@@ -1807,7 +1807,7 @@
   {
     "time": 72929,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePres\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePres\n\n",
     "cursor": {
       "row": 9,
       "column": 17
@@ -1816,7 +1816,7 @@
   {
     "time": 73079,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePress\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePress\n\n",
     "cursor": {
       "row": 9,
       "column": 18
@@ -1825,7 +1825,7 @@
   {
     "time": 73139,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePresse\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePresse\n\n",
     "cursor": {
       "row": 9,
       "column": 19
@@ -1834,7 +1834,7 @@
   {
     "time": 73341,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed\n\n",
     "cursor": {
       "row": 9,
       "column": 20
@@ -1843,7 +1843,7 @@
   {
     "time": 73487,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed(\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed(\n\n",
     "cursor": {
       "row": 9,
       "column": 21
@@ -1852,7 +1852,7 @@
   {
     "time": 73513,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed()\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed()\n\n",
     "cursor": {
       "row": 9,
       "column": 22
@@ -1861,7 +1861,7 @@
   {
     "time": 73593,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() \n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() \n\n",
     "cursor": {
       "row": 9,
       "column": 23
@@ -1870,7 +1870,7 @@
   {
     "time": 73739,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n\n",
     "cursor": {
       "row": 9,
       "column": 24
@@ -1879,7 +1879,7 @@
   {
     "time": 73933,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n\n\n",
     "cursor": {
       "row": 9,
       "column": 25
@@ -1888,7 +1888,7 @@
   {
     "time": 73933,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    \n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    \n\n",
     "cursor": {
       "row": 10,
       "column": 0
@@ -1897,7 +1897,7 @@
   {
     "time": 74143,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    b\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    b\n\n",
     "cursor": {
       "row": 10,
       "column": 4
@@ -1906,7 +1906,7 @@
   {
     "time": 74220,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    ba\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    ba\n\n",
     "cursor": {
       "row": 10,
       "column": 5
@@ -1915,7 +1915,7 @@
   {
     "time": 74332,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    bac\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    bac\n\n",
     "cursor": {
       "row": 10,
       "column": 6
@@ -1924,7 +1924,7 @@
   {
     "time": 74402,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    back\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    back\n\n",
     "cursor": {
       "row": 10,
       "column": 7
@@ -1933,7 +1933,7 @@
   {
     "time": 74548,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    backg\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    backg\n\n",
     "cursor": {
       "row": 10,
       "column": 8
@@ -1942,7 +1942,7 @@
   {
     "time": 74699,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    backgr\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    backgr\n\n",
     "cursor": {
       "row": 10,
       "column": 9
@@ -1951,7 +1951,7 @@
   {
     "time": 74726,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    backgro\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    backgro\n\n",
     "cursor": {
       "row": 10,
       "column": 10
@@ -1960,7 +1960,7 @@
   {
     "time": 74794,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    backgrou\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    backgrou\n\n",
     "cursor": {
       "row": 10,
       "column": 11
@@ -1969,7 +1969,7 @@
   {
     "time": 74978,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    backgroun\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    backgroun\n\n",
     "cursor": {
       "row": 10,
       "column": 12
@@ -1978,7 +1978,7 @@
   {
     "time": 74998,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background\n\n",
     "cursor": {
       "row": 10,
       "column": 13
@@ -1987,7 +1987,7 @@
   {
     "time": 75213,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(\n\n",
     "cursor": {
       "row": 10,
       "column": 14
@@ -1996,7 +1996,7 @@
   {
     "time": 75553,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(2\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(2\n\n",
     "cursor": {
       "row": 10,
       "column": 15
@@ -2005,7 +2005,7 @@
   {
     "time": 75644,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(25\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(25\n\n",
     "cursor": {
       "row": 10,
       "column": 16
@@ -2014,7 +2014,7 @@
   {
     "time": 75901,
     "action": "removeText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(2\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(2\n\n",
     "cursor": {
       "row": 10,
       "column": 16
@@ -2023,7 +2023,7 @@
   {
     "time": 76096,
     "action": "removeText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(\n\n",
     "cursor": {
       "row": 10,
       "column": 15
@@ -2032,7 +2032,7 @@
   {
     "time": 76261,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(0\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(0\n\n",
     "cursor": {
       "row": 10,
       "column": 15
@@ -2041,7 +2041,7 @@
   {
     "time": 76380,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(0,\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(0,\n\n",
     "cursor": {
       "row": 10,
       "column": 16
@@ -2050,7 +2050,7 @@
   {
     "time": 76517,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(0,2\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(0,2\n\n",
     "cursor": {
       "row": 10,
       "column": 17
@@ -2059,7 +2059,7 @@
   {
     "time": 76661,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(0,25\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(0,25\n\n",
     "cursor": {
       "row": 10,
       "column": 18
@@ -2068,7 +2068,7 @@
   {
     "time": 76789,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(0,255\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(0,255\n\n",
     "cursor": {
       "row": 10,
       "column": 19
@@ -2077,7 +2077,7 @@
   {
     "time": 76933,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(0,255,\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(0,255,\n\n",
     "cursor": {
       "row": 10,
       "column": 20
@@ -2086,7 +2086,7 @@
   {
     "time": 77007,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(0,255,0\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(0,255,0\n\n",
     "cursor": {
       "row": 10,
       "column": 21
@@ -2095,7 +2095,7 @@
   {
     "time": 77276,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(0,255,0)\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(0,255,0)\n\n",
     "cursor": {
       "row": 10,
       "column": 22
@@ -2104,7 +2104,7 @@
   {
     "time": 77527,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(0,255,0);\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(0,255,0);\n\n",
     "cursor": {
       "row": 10,
       "column": 23
@@ -2113,7 +2113,7 @@
   {
     "time": 77800,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(0,255,0);\n\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(0,255,0);\n\n\n",
     "cursor": {
       "row": 10,
       "column": 24
@@ -2122,7 +2122,7 @@
   {
     "time": 77801,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(0,255,0);\n    \n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(0,255,0);\n    \n\n",
     "cursor": {
       "row": 11,
       "column": 0
@@ -2131,7 +2131,7 @@
   {
     "time": 77965,
     "action": "insertText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(0,255,0);\n    }\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(0,255,0);\n    }\n\n",
     "cursor": {
       "row": 11,
       "column": 4
@@ -2140,7 +2140,7 @@
   {
     "time": 77969,
     "action": "removeText",
-    "contents": "function setup() {\n  createCanvas(300,200);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(0,255,0);\n}\n\n",
+    "contents": "function setup() {\n  createCanvas(400,300);\n  background(0,255,0);     \n}\n\nfunction draw() {\n  ellipse(mouseX,mouseY,20,20);\n}\n\nfunction mousePressed() {\n    background(0,255,0);\n}\n\n",
     "cursor": {
       "row": 11,
       "column": 1
