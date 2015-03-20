@@ -38,6 +38,7 @@ canvas {
   top: 0px;
   left: -300px;
   z-index: 2;
+  pointer-events:none;
 }
 
 #sketch {
