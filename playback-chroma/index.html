@@ -1,0 +1,34 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Playback</title>
+  <link rel="stylesheet" href="../css/bootstrap.min.css">
+  <link rel="stylesheet" href="../css/main2.css" />
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script src="../lib/ace/src-min-noconflict/ace.js" type="text/javascript" charset="utf-8"></script>
+  <script src="../lib/popcorn-complete.js" type="text/javascript" charset="utf-8"></script>
+  <script src="../lib/seriously/seriously.js"></script>
+  <script src="../lib/seriously/effects/seriously.chroma.js"></script>
+  <script src="../lib/p5/p5.js"></script>
+  <script src="../lib/p5/addons/p5.dom.js"></script>
+  <script src="../js/srsly.js"></script>
+  <script src="../js/playback.js"></script>
+</head>
+
+<body>
+  <video width="1280" height="720" id="testvideo" controls>
+    <source src="../assets/kinect_test.mov">
+  </video>
+  <canvas id="videoCanvas" width="1280" height="720"></canvas>
+  <div id="sketch">
+    <iframe id="sketchFrame" src="../sketch.html" width="0" height="0"></iframe>
+  </div>
+  <div id="space"></div>
+  <div id="editor"></div>  
+  <div id ="interface">
+    <button id="run">run the code</button>
+  </div>
+</body>
+</html>
+

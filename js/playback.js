@@ -70,6 +70,7 @@ function setup() {
         //   editor.removeSelectionMarker(todo.range);
         // }
       }
+      
     }
     
     for (var i = 0; i < events.length; i++) {
@@ -83,6 +84,9 @@ function setup() {
       pop.cue(events[i].time/1000, updateEditor(events[i]));
     }
     pop.play();
+
+      initSeriously();
+
   //}
 }
 

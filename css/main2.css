@@ -1,0 +1,70 @@
+/*
+
+Pink #ED225D
+Blue highlight/link #2D7BB6
+
+ */
+
+body {
+  height: 100%;
+  width: 100%;
+  overflow: none;
+  color: black;
+  background: #FFF;
+}
+
+canvas {
+}
+
+/*#container {
+  width: 840px;
+  height: 100%;
+  position: absolute;
+  top: 0%;
+  left: 0%;  
+}*/
+
+#testvideo {
+  position: absolute;
+  top: 4px;
+  left: 420px;
+  width: 320px;
+  height: 240px;
+  /*display: none;*/
+}
+
+#videoCanvas {
+  position: absolute;
+  top: 0px;
+  left: -300px;
+  z-index: 2;
+}
+
+#sketch {
+  background-color: #CCCCCC;
+  border: 1px;
+  border-style: dotted;
+  border-color: #000000;
+  width: 400px;
+  height: 300px;
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  /*background-color: #FF0000;*/
+}
+#editor { 
+  position: absolute;
+  top: 308px;
+  left: 4px;
+  width: 800px;
+  height: 300px;
+  /*background-color: #FFFF00;*/
+}
+#sketchFrame {
+  border-style: none;
+}
+#interface {
+  position: absolute;
+  top: 612px;
+  left: 4px;
+}
