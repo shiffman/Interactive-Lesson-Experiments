@@ -6,7 +6,7 @@ var offset = 1;
 var vid;
 
 function preload() {
-  events = loadJSON('events_fulltext.json');
+  events = loadJSON('/assets/events_fulltext.json');
 }
 
 function setup() {

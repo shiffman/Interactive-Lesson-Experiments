@@ -1,0 +1,42 @@
+.thing {
+  /*background-color: #FF00FF;*/
+}
+
+#container {
+  width: 840px;
+  height: 100%;
+  padding: 4px;
+}
+#video {
+  float: right;
+  width: 400px;
+  height: 300px;
+  /*background-color: #00FF00;*/
+}
+#sketch {
+  background-color: #CCCCCC;
+  border: 1px;
+  border-style: dotted;
+  border-color: #000000;
+  width: 400px;
+  height: 300px;
+  /*background-color: #FF0000;*/
+}
+#editor { 
+  width: 100%;
+  height: 300px;
+  /*background-color: #FFFF00;*/
+}
+#sketchFrame {
+  border-style: none;
+}
+#interface {
+  margin-top: 10px
+
+}
+
+#space {
+  height:4px;
+}
+body {
+}

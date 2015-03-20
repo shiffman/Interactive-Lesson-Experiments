@@ -2,69 +2,26 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <style type="text/css" media="screen">
-
-    .thing {
-      /*background-color: #FF00FF;*/
-    }
-
-    #container {
-      width: 840px;
-      height: 604px;
-      padding: 4px;
-    }
-    #video {
-      float: right;
-      width: 400px;
-      height: 300px;
-      /*background-color: #00FF00;*/
-    }
-    #sketch {
-      background-color: #CCCCCC;
-      border: 1px;
-      border-style: dotted;
-      border-color: #000000;
-      width: 400px;
-      height: 300px;
-      /*background-color: #FF0000;*/
-    }
-    #editor { 
-      width: 100%;
-      height: 300px;
-      /*background-color: #FFFF00;*/
-    }
-    #sketchFrame {
-      border-style: none;
-    }
-    #interface {
-      margin-top: 10px
-
-    }
-
-    #space {
-      height:4px;
-    }
-    body {
-    }
-  </style>
   <title>Playback</title>
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="/css/main.css" />
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script src="../lib/ace/src-min-noconflict/ace.js" type="text/javascript" charset="utf-8"></script>
-  <script src="../lib/popcorn-complete.js" type="text/javascript" charset="utf-8"></script>
-  <script language="javascript" type="text/javascript" src="../lib/p5/p5.js"></script>
-  <script language="javascript" type="text/javascript" src="../lib/p5/addons/p5.dom.js"></script>
-  <script language="javascript" type="text/javascript" src="playback.js"></script>
+  <script src="/lib/ace/src-min-noconflict/ace.js" type="text/javascript" charset="utf-8"></script>
+  <script src="/lib/popcorn-complete.js" type="text/javascript" charset="utf-8"></script>
+  <script language="javascript" type="text/javascript" src="/lib/p5/p5.js"></script>
+  <script language="javascript" type="text/javascript" src="/lib/p5/addons/p5.dom.js"></script>
+  <script language="javascript" type="text/javascript" src="/js/playback.js"></script>
 </head>
 
 <body>
   <div id="container">
     <div class="thing" id="video">
       <video width = "400" height="300" id="testvideo" controls="true">
-        <source src="test_video.mov">
+        <source src="/assets/test_video.mov">
       </video>
     </div>
     <div class="thing" id="sketch">
-      <iframe id="sketchFrame" src="sketch.html" width="0" height="0"></iframe>
+      <iframe id="sketchFrame" src="../sketch.html" width="0" height="0"></iframe>
     </div>
     <div id="space"></div>
     <div id="editor" class="thing"></div>  
